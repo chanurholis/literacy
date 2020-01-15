@@ -1,0 +1,3 @@
+USER :
+1. Username = Admin | Password = admin
+2. Username = Member | Password = member
